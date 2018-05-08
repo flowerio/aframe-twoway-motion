@@ -1,8 +1,8 @@
 # aframe-twoway-motion 
 
-Touch movement controls for [A-Frame](http://aframe.io) on mobile devices.
-Move forward and backward in an A-Frame scene on your phone. 
-Supports Portrait, Landscape and Cardboard modes.
+Touch movement controls for [A-Frame](http://aframe.io) on mobile devices.  
+Move forward and backward in an A-Frame scene on your phone.  
+Supports Portrait, Landscape and Cardboard modes.  
 
 Mobile tools from Fasility: twoway-motion | tilt-turn
 
@@ -50,5 +50,4 @@ Then attach it to your `<a-camera>`:
 ## Credits
 - Initial idea made for Howie Green's HowieSpace so that people could have a better experience of an artistic mural than pinching and zooming a photo on a mobile phone. 
 - Thanks to Don McCurdy for starting the party with A-Frame Extras' `Universal Controls`! 
-
-howiespace link 
+- Greets to the A-Frame team, contributors, component authors and everybody in the scene!
