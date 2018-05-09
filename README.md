@@ -48,6 +48,7 @@ Then attach it to your `<a-camera>`:
 - twoway-motion is not for 360 pictures. It will only distort the 360 panorama in interesting ways. twoway-motion is for exploring 360 scenes on mobile in handheld and cardboard modes. 
 
 ## Credits
+- Archilogic's 3dio for their absolutely amazing models!  
 - Initial idea made for Howie Green's HowieSpace so that people could have a better experience of an artistic mural than pinching and zooming a photo on a mobile phone. 
 - Thanks to Don McCurdy for starting the party with A-Frame Extras' `Universal Controls`! 
 - Greets to the A-Frame team, contributors, component authors and everybody in the scene!
