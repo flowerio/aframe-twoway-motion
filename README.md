@@ -1,7 +1,7 @@
 # aframe-twoway-motion 
 
-Touch movement controls for [A-Frame](http://aframe.io) on mobile devices.  
-Move forward and backward in an A-Frame scene on your phone.  
+Touch movement controls for [A-Frame](http://aframe.io) VR scenes on mobile devices.  
+Move forward and backward in an A-Frame environment on your phone.  
 Supports Portrait, Landscape and Cardboard modes.  
 
 Mobile tools from Fasility: twoway-motion | tilt-turn
@@ -10,7 +10,7 @@ Mobile tools from Fasility: twoway-motion | tilt-turn
 
 ## Demos
 
-- [A gorgeous 3D model by 3Dio](https://fasility.com/components/twoway-motion/demos/fancy-house.html)
+- [Fancy House by 3Dio](https://fasility.com/components/twoway-motion/demos/fancy-house.html)
 - [4 murals by Howie Green](https://fasility.com/howie)
 
 Tap to move forward. To move backward, look downward, then tap.  
@@ -33,7 +33,7 @@ Then attach it to your `<a-camera>`:
 
 **Parameter** | **Default** | **Description**
 ------------ | ------------- | --------------
-**speed** | 40 | Motion speed. `40` is an brisk walking pace. 
+**speed** | 40 | Motion speed. `40` is a brisk walking pace. 
 **threshold** | -40 | The x angle at which the cursor will turn orange and motion will be backward. `-10` would be just below the horizon.
 **nonMobileLoad** | false | twoway-motion will not run unless it is on a mobile device. Set nonMobileLoad to `true` to load it anyway. 
 
